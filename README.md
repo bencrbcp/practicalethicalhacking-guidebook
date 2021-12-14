@@ -1,2 +1,2 @@
 # Practical Ethical Hacking - A Guidebook
-A guidebook for the Practical Ethical Hacking course by TCM Security, written in LaTeX.
+A practical ethical hacking guidebook. Inspired by TCM Security, written by me in LaTeX.
